@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0000a0b4f4e45647bbcc93d3760ebd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {instanceID: 0}
+  - circlePrefab: {instanceID: 0}
+  - linePrefabHorizontal: {instanceID: 0}
+  - linePrefabDiagonal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+{
+"locations":
+[
+{
+"id":1,
+"name":"forest",
+"title_text_id":24,
+"available_tile_types":["flower","tree","mushroom","berry","spider","vegetable"],
+"tiles_chances":[
+	{"chances":[35,35,10,10,5,5]},
+	{"chances":[5,5,5,5,40,40]},
+	{"chances":[75,5,5,5,5,5]},
+	{"chances":[5,5,5,5,5,75]}
+],
+"start_journey_cost":40
+}
+]
+}

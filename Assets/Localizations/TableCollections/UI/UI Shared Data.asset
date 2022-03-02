@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 2cdca9674902deb4dade9197a689d9a2
+  m_Entries:
+  - m_Id: 9032214388736
+    m_Key: buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9081942056960
+    m_Key: sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1756382029029376
+    m_Key: start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2194267186274304
+    m_Key: create
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2194310895116288
+    m_Key: hire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2879979564965888
+    m_Key: next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2880314866016256
+    m_Key: the trip  is over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2881442483675136
+    m_Key: something left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2881678153228288
+    m_Key: remember coordinates?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3676557624090624
+    m_Key: do you really want to quit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3676710456139776
+    m_Key: want to quit _ description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3678489239494656
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7518611089268736
+    m_Key: 'active:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7518730584989696
+    m_Key: speed up research
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7519194571481088
+    m_Key: find now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7565805129441280
+    m_Key: start research
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15547210945929216
+    m_Key: first complete all previous researches
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1633429306724
